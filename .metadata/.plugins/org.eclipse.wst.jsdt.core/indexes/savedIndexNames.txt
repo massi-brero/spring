@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/home/massi/projects/spring/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+918850115.index
+4060082402.index
+246379715.index
+2539885731.index
+2233077588.index
+1578552174.index
+698717328.index
+2362748224.index

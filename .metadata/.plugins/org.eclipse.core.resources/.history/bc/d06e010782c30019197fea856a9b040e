@@ -1,0 +1,8 @@
+package de.massisoft.votingsystem.entity;
+
+import javax.persistence.Table;
+
+@Table(name="citizens")
+public class Citizen {
+	
+}

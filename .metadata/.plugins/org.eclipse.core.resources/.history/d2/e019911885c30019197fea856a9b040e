@@ -1,0 +1,12 @@
+package de.massisoft.votingsystem.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Table(name="citizens")
+public class Citizen {
+	@Id
+	@Column(name="id")
+	private Long id;
+}

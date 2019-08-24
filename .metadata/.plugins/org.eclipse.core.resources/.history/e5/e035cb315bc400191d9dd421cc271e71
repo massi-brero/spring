@@ -1,0 +1,9 @@
+package de.massisoft.votingsystem.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import de.massisoft.votingsystem.entity.Citizen;
+
+public interface CitizenRepo extends JpaRepository<Long, Citizen>{
+	
+}
